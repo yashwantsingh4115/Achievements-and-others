@@ -1,35 +1,45 @@
-# 💫 About Me:
-☁️ Cloud & DevOps | BCA Student<br>🚀 Turning logic into seamless experiences<br>💻 React, Node.js, Python, JS, PHP, HTML/CSS<br>🛠️ MongoDB, Azure, AWS, Docker<br>📍 From Jaipur<br>🔗 https://www.linkedin.com/in/yashwantsingh8455
+<div align="center">
+
+# YASHWANT SINGH
+
+### Software Engineer • Cloud & DevOps • AI/ML • Full-Stack Development
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:7c3aed&height=180&section=header&text=Yashwant%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Building%20scalable%20software%20and%20cloud-native%20systems&descAlignY=58&descSize=17" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+Cloud+%26+DevOps;Full-Stack+Development+%7C+AI%2FML;Building+Scalable+%26+Production-Ready+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping)](https://git.io/typing-svg)
+
+<br/>
+
+[![BCA](https://img.shields.io/badge/BCA-Cloud%20%26%20DevOps-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.poornima.edu.in/)
+[![Student](https://img.shields.io/badge/Student-Software%20Engineering-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/)
+[![India](https://img.shields.io/badge/Location-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/India)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashwantsingh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwantsingh/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwantsingh8455@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwantsingh8455)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashwantsingh8455&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/yashwantsingh8455?style=for-the-badge&color=4F46E5&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/yashwantsingh8455?style=for-the-badge&color=7C3AED&label=STARS)
+
+</div>
 
 ---
 
-### ⚡ Current Status
-*   **🔭 Currently working on:** Building scalable Cloud infrastructures & full-stack web applications.
-*   **🌱 Learning:** Advanced Kubernetes orchestration and Serverless architecture.
-*   **💬 Ask me about:** DevOps pipelines, Cloud deployment, or Web Dev troubleshooting.
-*   **📫 Reach me at:** yashwantsingh2046@gmail.com
+## About
 
----
+I am a **BCA student specializing in Cloud & DevOps** with a strong focus on software engineering, backend systems, cloud infrastructure, and practical problem solving.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwantsingh8455) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwantsingh2046@gmail.com)
+My engineering approach combines **clean architecture, scalable APIs, database design, cloud-native development, automation, and product thinking**. I enjoy taking an idea from a rough concept to a functional system with a real backend, persistent data, authentication, deployment, and maintainable architecture.
 
-# 💻 Tech Stack:
-<!-- Keep your existing tech stack badges here -->
+I am actively building expertise across **full-stack development, AI/ML, cloud computing, DevOps, distributed systems, databases, and competitive programming**.
 
-# 📊 GitHub Stats & Activity:
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashwantsingh8455&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashwantsingh8455&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%" />
-</p>
-
-### 🔥 My GitHub Streak
-![](https://streak-stats.demolab.com/?user=yashwantsingh8455&theme=dark&hide_border=true)
-
-### 📈 Latest GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashwantsingh8455&theme=react-dark&hide_border=true)
-
----
-[![](https://komarev.com/ghpvc/?username=yashwantsingh8455&icon=0&color=0)](https://iamyashwant.onrender.com/)
-
-<!-- Proudly created with GPRM ( https://iamyashwant.onrender.com/ ) -->
+```text
+Engineering Philosophy
+────────────────────────────────────────────────────────────
+Understand → Design → Build → Test → Deploy → Measure → Improve
