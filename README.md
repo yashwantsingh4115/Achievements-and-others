@@ -145,7 +145,6 @@ _Add links to your actual repositories as you publish your projects._
   **💙 Thanks for visiting my profile!**
 
   <br>
-  ![Uploading Futuristic Tech Connection Banner.png…]()
 
 
   *Learn every day. Build step by step. Keep improving.*
