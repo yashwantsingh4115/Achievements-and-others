@@ -1,114 +1,51 @@
 <div align="center">
 
-  <img src="banner/Yashwant-Singh-Cloud-DevOps-Banner.png" alt="Yashwant Singh | Cloud and DevOps Student" width="100%">
+  <img src="banner/Yashwant-Singh-Cloud-DevOps-Banner.png" alt="Yashwant Singh — Cloud and DevOps Student" width="100%">
 
-  <h1>Hi there, I'm Yashwant Singh 👋</h1>
-  <h3>☁️ Cloud & DevOps Student | Aspiring Cloud Engineer</h3>
+  # Y A S H W A N T&nbsp; S I N G H
 
-  <p>
-    <em>Learning by building · Automating the boring stuff · Growing every day</em>
-  </p>
+  ### ☁️ Cloud & DevOps Student
+
+  `Cloud Computing` · `DevOps` · `Linux` · `Docker` · `CI/CD` · `Kubernetes` · `Automation`
+
+  **Learning to build, deploy, and automate reliable cloud infrastructure.**
 
   <p>
     <a href="https://github.com/YOUR-USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github" alt="GitHub Profile">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
   </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Learner;Exploring+AWS%2C+Linux+%26+Docker;Building+projects+one+step+at+a+time" alt="Typing SVG">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **Cloud & DevOps student** focused on learning how applications are built, deployed, automated, and maintained.
+Hi! I'm **Yashwant Singh**, a Cloud & DevOps student building my skills in cloud platforms, Linux, containers, and deployment automation.
 
 - ☁️ Learning cloud fundamentals and cloud infrastructure.
-- 🐧 Practicing Linux, command-line tools, and shell basics.
+- 🐧 Practicing Linux, networking basics, and command-line tools.
 - 🐳 Exploring Docker and containerized applications.
-- 🔄 Learning Git, GitHub, and CI/CD workflows.
-- 🧱 Exploring Infrastructure as Code and Kubernetes.
-- 🎯 Goal: become a skilled Cloud / DevOps Engineer by building practical projects.
+- 🔄 Learning Git, GitHub, and CI/CD pipelines.
+- ☸️ Studying Kubernetes and infrastructure automation.
+- 🎯 Working toward becoming a Cloud / DevOps Engineer through hands-on practice.
 
-> 💡 I believe consistent practice and real projects are the best way to learn technology.
+> 💡 My goal is to turn what I learn into practical projects and document my progress along the way.
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
-
-### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="Cloud technologies">
-
-### ⚙️ DevOps & Development Tools
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,git,github,githubactions,bash,python,vscode&theme=dark" alt="DevOps tools">
-
-</div>
-
-## 📚 What I'm Learning
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>☁️ Cloud</h3>
-      <ul>
-        <li>Cloud computing fundamentals</li>
-        <li>AWS core services and IAM</li>
-        <li>Networking, storage, and compute</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🚀 DevOps</h3>
-      <ul>
-        <li>Linux and Bash basics</li>
-        <li>Git and GitHub workflows</li>
-        <li>CI/CD with GitHub Actions</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📦 Containers</h3>
-      <ul>
-        <li>Docker images and containers</li>
-        <li>Dockerfiles and Compose</li>
-        <li>Kubernetes fundamentals</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🧱 Automation</h3>
-      <ul>
-        <li>Terraform fundamentals</li>
-        <li>Infrastructure as Code</li>
-        <li>Monitoring and troubleshooting</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🚀 Projects
-
-_Add your repository links below as you publish projects. Replace the example links with your actual repositories._
-
-| Project | What it covers |
-|---|---|
-| 🐧 **Linux Command Notes** | Handy commands, permissions, users, and shell practice |
-| 🐳 **Docker Starter App** | Containerize a simple application with a Dockerfile |
-| 🔁 **CI/CD Pipeline Demo** | Automate testing and builds with GitHub Actions |
-| ☁️ **Cloud Practice Labs** | Hands-on cloud notes and deployment exercises |
-| 🧱 **Terraform Starter** | Practice provisioning basic infrastructure as code |
-
-## 📈 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub stats">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages">
 
   <br><br>
 
@@ -116,35 +53,99 @@ _Add your repository links below as you publish projects. Replace the example li
 
 </div>
 
-## 🎯 My Learning Roadmap
+---
 
-- [ ] Get comfortable with Linux and networking fundamentals
-- [ ] Build and document Docker projects
-- [ ] Create a working GitHub Actions CI/CD pipeline
-- [ ] Deploy a sample app to a cloud platform
-- [ ] Learn Kubernetes by deploying a small application
-- [ ] Practice Terraform and Infrastructure as Code
-- [ ] Add monitoring and logging to a demo deployment
+## ⚡ Tech Stack
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm always happy to learn from other developers, exchange ideas, and collaborate on beginner-friendly cloud and DevOps projects.
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,bash,docker,kubernetes,terraform,git,github,githubactions,python,vscode&theme=dark" alt="Cloud and DevOps tools">
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud">
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+</div>
+
+### ☁️ Cloud
+AWS fundamentals · Azure fundamentals · Compute · Storage · Networking · IAM
+
+### 🚀 DevOps & Automation
+Linux · Git · GitHub · Docker · CI/CD · GitHub Actions · Bash
+
+### ☸️ Infrastructure
+Kubernetes fundamentals · Terraform basics · Infrastructure as Code
+
+---
+
+## 🧠 Current Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>☁️ Cloud</h3>
+      AWS basics<br>Networking<br>IAM and storage
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ DevOps</h3>
+      Git workflows<br>CI/CD pipelines<br>Automation
+    </td>
+    <td align="center" width="33%">
+      <h3>📦 Containers</h3>
+      Docker<br>Images and containers<br>Kubernetes basics
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+_Add links to your actual repositories as you publish your projects._
+
+| Project | Description | Skills |
+|---|---|---|
+| 🐧 **Linux Command Notes** | Notes and examples for everyday Linux commands | Linux, Bash |
+| 🐳 **Docker Starter Project** | Package a simple app into a container | Docker |
+| 🔁 **CI/CD Pipeline Demo** | Automate a build or test workflow | GitHub Actions |
+| ☁️ **Cloud Practice Labs** | Document cloud labs and deployment exercises | Cloud |
+| 🧱 **Terraform Starter** | Practice Infrastructure as Code with a small example | Terraform |
+
+---
+
+## 🗺️ Learning Roadmap
+
+- [ ] Strengthen Linux and networking fundamentals
+- [ ] Learn core AWS services and IAM
+- [ ] Build and publish a Docker project
+- [ ] Create a CI/CD pipeline using GitHub Actions
+- [ ] Deploy a sample application to the cloud
+- [ ] Practice Kubernetes fundamentals
+- [ ] Provision sample infrastructure with Terraform
+- [ ] Document projects with clear READMEs
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
   <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <br><br>
 
-  **⭐ Thanks for visiting my profile!**
+  **💙 Thanks for visiting my profile!**
 
   <br>
 
-  <sub>“Learn something new. Build something useful. Repeat.”</sub>
+  *Learn every day. Build step by step. Keep improving.*
 
 </div>
