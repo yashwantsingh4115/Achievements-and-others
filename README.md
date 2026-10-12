@@ -1,7 +1,6 @@
-
 <div align="center">
 
-  <img src="banner/Yashwant-Singh-Cloud-DevOps-Banner.png" alt="Yashwant Singh - Cloud and DevOps Student" width="100%">
+  <img src="banner/Yashwant-Singh-Cloud-DevOps-Banner.png" alt="Yashwant Singh — Cloud and DevOps Student" width="100%">
 
   # Y A S H W A N T&nbsp; S I N G H
 
@@ -12,15 +11,13 @@
   **Learning to build, deploy, and automate reliable cloud infrastructure.**
 
   <p>
-    <a href="https://github.com/YOUR-USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    <a href="https://github.com/yashwantsingh4115">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <a href="https://www.linkedin.com/in/yashwantsingh4115/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/YOUR-USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views">
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=yashwantsingh4115&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
   </p>
 
 </div>
@@ -46,19 +43,13 @@ Hi! I'm **Yashwant Singh**, a Cloud & DevOps student building my skills in cloud
 
 <div align="center">
 
-  <a href="https://github.com/YOUR-USERNAME">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub Statistics">
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwantsingh4115&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub stats">
 
-  <a href="https://github.com/YOUR-USERNAME">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages">
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantsingh4115&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages">
 
   <br><br>
 
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&theme=tokyonight&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Contribution Streak">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=yashwantsingh4115&hide_border=true&theme=tokyonight&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub contribution streak">
 
 </div>
 
@@ -66,82 +57,27 @@ Hi! I'm **Yashwant Singh**, a Cloud & DevOps student building my skills in cloud
 
 ## ⚡ Tech Stack
 
-### ☁️ Cloud Platforms
-
 <div align="center">
 
-  <a href="https://aws.amazon.com/" title="Amazon Web Services">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/" title="Microsoft Azure">
-    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="55">
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,bash,docker,kubernetes,terraform,git,github,githubactions,python,vscode&theme=dark" alt="Cloud and DevOps tools">
 
-  <p>
-    <a href="https://aws.amazon.com/">AWS Official Website</a> ·
-    <a href="https://azure.microsoft.com/">Azure Official Website</a>
-  </p>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud">
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 </div>
+
+### ☁️ Cloud
+AWS fundamentals · Azure fundamentals · Compute · Storage · Networking · IAM
 
 ### 🚀 DevOps & Automation
+Linux · Git · GitHub · Docker · CI/CD · GitHub Actions · Bash
 
-<div align="center">
-
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" title="GNU Bash">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://docs.github.com/en/actions" title="GitHub Actions">
-    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="55">
-  </a>
-
-</div>
-
-### ☸️ Infrastructure & Development
-
-<div align="center">
-
-  <a href="https://kubernetes.io/" title="Kubernetes">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.hashicorp.com/terraform" title="Terraform">
-    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55">
-  </a>
-
-</div>
-
-**Cloud:** AWS fundamentals · Azure fundamentals · Compute · Storage · Networking · IAM
-
-**DevOps:** Linux · Git · GitHub · Docker · CI/CD · GitHub Actions · Bash
-
-**Infrastructure:** Kubernetes fundamentals · Terraform basics · Infrastructure as Code
+### ☸️ Infrastructure
+Kubernetes fundamentals · Terraform basics · Infrastructure as Code
 
 ---
 
@@ -151,21 +87,15 @@ Hi! I'm **Yashwant Singh**, a Cloud & DevOps student building my skills in cloud
   <tr>
     <td align="center" width="33%">
       <h3>☁️ Cloud</h3>
-      AWS basics<br>
-      Networking<br>
-      IAM and storage
+      AWS basics<br>Networking<br>IAM and storage
     </td>
     <td align="center" width="33%">
       <h3>⚙️ DevOps</h3>
-      Git workflows<br>
-      CI/CD pipelines<br>
-      Automation
+      Git workflows<br>CI/CD pipelines<br>Automation
     </td>
     <td align="center" width="33%">
       <h3>📦 Containers</h3>
-      Docker<br>
-      Images and containers<br>
-      Kubernetes basics
+      Docker<br>Images and containers<br>Kubernetes basics
     </td>
   </tr>
 </table>
@@ -174,15 +104,15 @@ Hi! I'm **Yashwant Singh**, a Cloud & DevOps student building my skills in cloud
 
 ## 📂 Featured Projects
 
-_Add your actual repository links as you publish your projects._
+_Add links to your actual repositories as you publish your projects._
 
 | Project | Description | Skills |
 |---|---|---|
-| 🐧 Linux Command Notes | Notes and examples for everyday Linux commands | Linux, Bash |
-| 🐳 Docker Starter Project | Package a simple app into a container | Docker |
-| 🔁 CI/CD Pipeline Demo | Automate a build or test workflow | GitHub Actions |
-| ☁️ Cloud Practice Labs | Document cloud labs and deployment exercises | Cloud |
-| 🧱 Terraform Starter | Practice Infrastructure as Code | Terraform |
+| 🐧 **Linux Command Notes** | Notes and examples for everyday Linux commands | Linux, Bash |
+| 🐳 **Docker Starter Project** | Package a simple app into a container | Docker |
+| 🔁 **CI/CD Pipeline Demo** | Automate a build or test workflow | GitHub Actions |
+| ☁️ **Cloud Practice Labs** | Document cloud labs and deployment exercises | Cloud |
+| 🧱 **Terraform Starter** | Practice Infrastructure as Code with a small example | Terraform |
 
 ---
 
@@ -203,11 +133,10 @@ _Add your actual repository links as you publish your projects._
 
 <div align="center">
 
-  <a href="https://github.com/YOUR-USERNAME" title="Visit my GitHub profile">
+  <a href="https://github.com/yashwantsingh4115">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" title="Connect on LinkedIn">
+  <a href="https://www.linkedin.com/in/yashwantsingh4115/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
